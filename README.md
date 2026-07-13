@@ -57,6 +57,13 @@ The module processes the input data **LSB-first**, initializes the CRC register 
 </p>
 
 
+# 🔬 Lint & Schematic 
+
+<p align="center">
+<img src="Lint_for_design.png" width="800">
+</p>
+
+
 
 # 📊 Verification Example
 
