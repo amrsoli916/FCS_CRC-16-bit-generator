@@ -45,7 +45,7 @@ The module processes the input data **LSB-first**, initializes the CRC register 
 # 🏗️ CRC Architecture
 
 <p align="center">
-<img src="Images/crc_architecture.png" width="800">
+<img src="crc_architecture.png" width="800">
 </p>
 
 
@@ -53,7 +53,7 @@ The module processes the input data **LSB-first**, initializes the CRC register 
 # 🔬 Simulation Waveform
 
 <p align="center">
-<img src="Images/simulation.png" width="900">
+<img src="simulation.png" width="900">
 </p>
 
 
