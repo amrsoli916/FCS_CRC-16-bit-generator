@@ -1,5 +1,14 @@
 =============================================
 Simulation Results
 =============================================
-Test case 1: data = 6a0002, output_FSC = 79e4
-Test case 2: data = d55555, output_FSC = 9631
+Test case 1: PASS : Data = 6a0002 CRC = 79e4
+Test case 2: PASS : Data = ffffff CRC = 364b
+Test case 3: PASS : Data = d55555 CRC = 9631
+Test case 4: FAIL : Data=fff000 Expected=7371 Got=7370
+Test case 5: FAIL : Data=000fff Expected=4848 Got=453b
+Test case 6: PASS : Data = f0f0f0 CRC = 07b3
+=============================================
+Total Test Cases: 6
+Passed: 4
+Failed: 2
+=============================================
